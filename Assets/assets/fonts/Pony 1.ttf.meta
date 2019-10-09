@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 6c97bee8db9cf1344b1325d165d9f1bd
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: iCiel Pony
+  fontNames:
+  - iCiel Pony
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: bcde826ae9935e2489c0aafdde7026e1, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

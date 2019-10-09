@@ -1,0 +1,23 @@
+{
+    "android": {
+        "iap": {
+            "items": {
+                "remove_ads": {
+                    "type": "non_consumable", 
+                    "id": "genergame.dapchuot.removeads"
+                }
+            }, 
+            "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAk69RmU/EGTVwUHp/KW5LvNKDRxJKQ0aE7CPDxpUvH8gJFVThJ5uHcOWJf8lBM9X+S9X7KEDUv9urU91iRJ/fQycbOa7UKpf598qLVkaLi6PCyHe0qQyBOKsPQI1a/XM+xfBuxsMoKoZA+ZbQql68qdjkBiZwySHkuo/SF6D33fLZWlk9ZwO+PyzLDfGpp75u4Y9Ha6dFyW3k7HgVijYexV/BsYpt22m2IgLdmdPT/Ia3IamSCKgOEMNvee1o28/NMy/q6g48I5bJ0xqfmdP3o++hb2m0GhkC7ddxjvxo8CNf20BNmgUqYEMelGnpEFp0umBnQJ5GmiJtFW64k6iA9QIDAQAB"
+        }
+    }, 
+    "ios": {
+        "iap": {
+            "items": {
+                "remove_ads": {
+                    "type": "non_consumable", 
+                    "id": "Genergame.Com.DapChuot.RemoveAds"
+                }
+            }
+        }
+    }
+}

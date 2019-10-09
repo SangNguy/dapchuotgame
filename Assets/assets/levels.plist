@@ -1,0 +1,874 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<!-- Level1 -->	
+	<dict>
+		<key>NumberMouseTarget</key>
+		<real>10</real>
+		<key>NumberComboTarget</key>
+		<real>1</real>
+		<key>NumberDiamondTarget</key>
+		<real>0</real>
+	
+		<key>NumberMouseAppearance</key>
+		<real>31</real>
+		<key>NumberMouseOnScreen</key>
+		<real>1</real>
+		<key>DurationMouseDelay1</key>
+		<real>1.0</real>		
+		<key>DurationMouseDelay2</key>
+		<real>2.0</real>
+		<key>DurationMouseAppearance1</key>
+		<real>1.0</real>
+		<key>DurationMouseAppearance2</key>
+		<real>1.5</real>
+		
+		<key>NumberOldManAppearance</key>
+		<real>5</real>
+		<key>NumberOldManOnScreen</key>
+		<real>0</real>
+		<key>DurationOldManDelay1</key>
+		<real>1.0</real>
+		<key>DurationOldManDelay2</key>
+		<real>2.0</real>
+		<key>DurationOldManAppearance1</key>
+		<real>1.0</real>
+		<key>DurationOldManAppearance2</key>
+		<real>2.0</real>
+		
+		<key>NumberDiamondOnScreen</key>
+		<real>0</real>
+		<key>DurationDiamondDelay1</key>
+		<real>1.0</real>
+		<key>DurationDiamondDelay2</key>
+		<real>2.0</real>
+		<key>DurationDiamondAppearance1</key>
+		<real>1.0</real>
+		<key>DurationDiamondAppearance2</key>
+		<real>1.5</real>
+		
+		<key>NumberBombOnScreen</key>
+		<real>0</real>
+		<key>DurationBombDelay1</key>
+		<real>3.0</real>
+		<key>DurationBombDelay2</key>
+		<real>10.0</real>
+		<key>DurationBombAppearance1</key>
+		<real>1.0</real>
+		<key>DurationBombAppearance2</key>
+		<real>1.5</real>		
+	</dict>
+	<!-- Level 2 -->
+	<dict>
+		<key>NumberMouseTarget</key>
+		<real>11</real>
+		<key>NumberComboTarget</key>
+		<real>2</real>
+		<key>NumberDiamondTarget</key>
+		<real>0</real>
+	
+		<key>NumberMouseAppearance</key>
+		<real>34</real>
+		<key>NumberMouseOnScreen</key>
+		<real>1</real>
+		<key>DurationMouseDelay1</key>
+		<real>1.0</real>		
+		<key>DurationMouseDelay2</key>
+		<real>2.0</real>
+		<key>DurationMouseAppearance1</key>
+		<real>1.0</real>
+		<key>DurationMouseAppearance2</key>
+		<real>1.5</real>
+		
+		<key>NumberOldManAppearance</key>
+		<real>6</real>
+		<key>NumberOldManOnScreen</key>
+		<real>0</real>
+		<key>DurationOldManDelay1</key>
+		<real>1.0</real>
+		<key>DurationOldManDelay2</key>
+		<real>2.0</real>
+		<key>DurationOldManAppearance1</key>
+		<real>1.0</real>
+		<key>DurationOldManAppearance2</key>
+		<real>2.0</real>
+		
+		<key>NumberDiamondOnScreen</key>
+		<real>0</real>
+		<key>DurationDiamondDelay1</key>
+		<real>1.0</real>
+		<key>DurationDiamondDelay2</key>
+		<real>2.0</real>
+		<key>DurationDiamondAppearance1</key>
+		<real>1.0</real>
+		<key>DurationDiamondAppearance2</key>
+		<real>1.5</real>
+		
+		<key>NumberBombOnScreen</key>
+		<real>0</real>
+		<key>DurationBombDelay1</key>
+		<real>3.0</real>
+		<key>DurationBombDelay2</key>
+		<real>10.0</real>
+		<key>DurationBombAppearance1</key>
+		<real>1.0</real>
+		<key>DurationBombAppearance2</key>
+		<real>1.5</real>		
+	</dict>
+	
+	<!-- Level 3 -->
+	<dict>
+		<key>NumberMouseTarget</key>
+		<real>12</real>
+		<key>NumberComboTarget</key>
+		<real>3</real>
+		<key>NumberDiamondTarget</key>
+		<real>0</real>
+	
+		<key>NumberMouseAppearance</key>
+		<real>34</real>
+		<key>NumberMouseOnScreen</key>
+		<real>1</real>
+		<key>DurationMouseDelay1</key>
+		<real>1.0</real>		
+		<key>DurationMouseDelay2</key>
+		<real>2.0</real>
+		<key>DurationMouseAppearance1</key>
+		<real>1.0</real>
+		<key>DurationMouseAppearance2</key>
+		<real>1.5</real>
+		
+		<key>NumberOldManAppearance</key>
+		<real>7</real>
+		<key>NumberOldManOnScreen</key>
+		<real>0</real>
+		<key>DurationOldManDelay1</key>
+		<real>1.0</real>
+		<key>DurationOldManDelay2</key>
+		<real>2.0</real>
+		<key>DurationOldManAppearance1</key>
+		<real>1.0</real>
+		<key>DurationOldManAppearance2</key>
+		<real>2.0</real>
+		
+		<key>NumberDiamondOnScreen</key>
+		<real>0</real>
+		<key>DurationDiamondDelay1</key>
+		<real>1.0</real>
+		<key>DurationDiamondDelay2</key>
+		<real>2.0</real>
+		<key>DurationDiamondAppearance1</key>
+		<real>1.0</real>
+		<key>DurationDiamondAppearance2</key>
+		<real>1.5</real>
+		
+		<key>NumberBombOnScreen</key>
+		<real>0</real>
+		<key>DurationBombDelay1</key>
+		<real>3.0</real>
+		<key>DurationBombDelay2</key>
+		<real>10.0</real>
+		<key>DurationBombAppearance1</key>
+		<real>1.0</real>
+		<key>DurationBombAppearance2</key>
+		<real>1.5</real>		
+	</dict>
+	
+	<!-- Level 4 -->
+	<dict>
+		<key>NumberMouseTarget</key>
+		<real>14</real>
+		<key>NumberComboTarget</key>
+		<real>4</real>
+		<key>NumberDiamondTarget</key>
+		<real>0</real>
+	
+		<key>NumberMouseAppearance</key>
+		<real>35</real>
+		<key>NumberMouseOnScreen</key>
+		<real>2</real>
+		<key>DurationMouseDelay1</key>
+		<real>1.0</real>		
+		<key>DurationMouseDelay2</key>
+		<real>2.0</real>
+		<key>DurationMouseAppearance1</key>
+		<real>1.0</real>
+		<key>DurationMouseAppearance2</key>
+		<real>1.5</real>
+		
+		<key>NumberOldManAppearance</key>
+		<real>8</real>
+		<key>NumberOldManOnScreen</key>
+		<real>0</real>
+		<key>DurationOldManDelay1</key>
+		<real>1.0</real>
+		<key>DurationOldManDelay2</key>
+		<real>2.0</real>
+		<key>DurationOldManAppearance1</key>
+		<real>1.0</real>
+		<key>DurationOldManAppearance2</key>
+		<real>2.0</real>
+		
+		<key>NumberDiamondOnScreen</key>
+		<real>1</real>
+		<key>DurationDiamondDelay1</key>
+		<real>1.0</real>
+		<key>DurationDiamondDelay2</key>
+		<real>2.0</real>
+		<key>DurationDiamondAppearance1</key>
+		<real>1.0</real>
+		<key>DurationDiamondAppearance2</key>
+		<real>1.5</real>
+		
+		<key>NumberBombOnScreen</key>
+		<real>0</real>
+		<key>DurationBombDelay1</key>
+		<real>3.0</real>
+		<key>DurationBombDelay2</key>
+		<real>10.0</real>
+		<key>DurationBombAppearance1</key>
+		<real>1.0</real>
+		<key>DurationBombAppearance2</key>
+		<real>1.5</real>		
+	</dict>
+	
+	<!-- Level 5 -->
+	<dict>
+		<key>NumberMouseTarget</key>
+		<real>15</real>
+		<key>NumberComboTarget</key>
+		<real>5</real>
+		<key>NumberDiamondTarget</key>
+		<real>3</real>
+	
+		<key>NumberMouseAppearance</key>
+		<real>36</real>
+		<key>NumberMouseOnScreen</key>
+		<real>2</real>
+		<key>DurationMouseDelay1</key>
+		<real>0.7</real>		
+		<key>DurationMouseDelay2</key>
+		<real>2.0</real>
+		<key>DurationMouseAppearance1</key>
+		<real>0.8</real>
+		<key>DurationMouseAppearance2</key>
+		<real>1.2</real>
+		
+		<key>NumberOldManAppearance</key>
+		<real>11</real>
+		<key>NumberOldManOnScreen</key>
+		<real>1</real>
+		<key>DurationOldManDelay1</key>
+		<real>1.0</real>
+		<key>DurationOldManDelay2</key>
+		<real>2.0</real>
+		<key>DurationOldManAppearance1</key>
+		<real>1.0</real>
+		<key>DurationOldManAppearance2</key>
+		<real>2.0</real>
+		
+		<key>NumberDiamondOnScreen</key>
+		<real>1</real>
+		<key>DurationDiamondDelay1</key>
+		<real>0.7</real>
+		<key>DurationDiamondDelay2</key>
+		<real>2.0</real>
+		<key>DurationDiamondAppearance1</key>
+		<real>0.8</real>
+		<key>DurationDiamondAppearance2</key>
+		<real>1.2</real>
+		
+		<key>NumberBombOnScreen</key>
+		<real>0</real>
+		<key>DurationBombDelay1</key>
+		<real>2.0</real>
+		<key>DurationBombDelay2</key>
+		<real>10.0</real>
+		<key>DurationBombAppearance1</key>
+		<real>1.0</real>
+		<key>DurationBombAppearance2</key>
+		<real>2.0</real>		
+	</dict>
+	
+	<!-- Level 6 -->
+	<dict>
+		<key>NumberMouseTarget</key>
+		<real>20</real>
+		<key>NumberComboTarget</key>
+		<real>5</real>
+		<key>NumberDiamondTarget</key>
+		<real>4</real>
+	
+		<key>NumberMouseAppearance</key>
+		<real>37</real>
+		<key>NumberMouseOnScreen</key>
+		<real>2</real>
+		<key>DurationMouseDelay1</key>
+		<real>0.7</real>		
+		<key>DurationMouseDelay2</key>
+		<real>2.0</real>
+		<key>DurationMouseAppearance1</key>
+		<real>0.8</real>
+		<key>DurationMouseAppearance2</key>
+		<real>1.2</real>
+		
+		<key>NumberOldManAppearance</key>
+		<real>10</real>
+		<key>NumberOldManOnScreen</key>
+		<real>1</real>
+		<key>DurationOldManDelay1</key>
+		<real>1.0</real>
+		<key>DurationOldManDelay2</key>
+		<real>2.0</real>
+		<key>DurationOldManAppearance1</key>
+		<real>1.0</real>
+		<key>DurationOldManAppearance2</key>
+		<real>2.0</real>
+		
+		<key>NumberDiamondOnScreen</key>
+		<real>1</real>
+		<key>DurationDiamondDelay1</key>
+		<real>0.7</real>
+		<key>DurationDiamondDelay2</key>
+		<real>2.0</real>
+		<key>DurationDiamondAppearance1</key>
+		<real>0.8</real>
+		<key>DurationDiamondAppearance2</key>
+		<real>1.2</real>
+		
+		<key>NumberBombOnScreen</key>
+		<real>0</real>
+		<key>DurationBombDelay1</key>
+		<real>2.0</real>
+		<key>DurationBombDelay2</key>
+		<real>10.0</real>
+		<key>DurationBombAppearance1</key>
+		<real>1.0</real>
+		<key>DurationBombAppearance2</key>
+		<real>1.5</real>		
+	</dict>
+	
+	<!-- Level 7 -->
+	<dict>
+		<key>NumberMouseTarget</key>
+		<real>25</real>
+		<key>NumberComboTarget</key>
+		<real>5</real>
+		<key>NumberDiamondTarget</key>
+		<real>5</real>
+	
+		<key>NumberMouseAppearance</key>
+		<real>38</real>
+		<key>NumberMouseOnScreen</key>
+		<real>3</real>
+		<key>DurationMouseDelay1</key>
+		<real>0.7</real>		
+		<key>DurationMouseDelay2</key>
+		<real>2.0</real>
+		<key>DurationMouseAppearance1</key>
+		<real>0.8</real>
+		<key>DurationMouseAppearance2</key>
+		<real>1.2</real>
+		
+		<key>NumberOldManAppearance</key>
+		<real>11</real>
+		<key>NumberOldManOnScreen</key>
+		<real>1</real>
+		<key>DurationOldManDelay1</key>
+		<real>1.0</real>
+		<key>DurationOldManDelay2</key>
+		<real>2.0</real>
+		<key>DurationOldManAppearance1</key>
+		<real>1.0</real>
+		<key>DurationOldManAppearance2</key>
+		<real>2.0</real>
+		
+		<key>NumberDiamondOnScreen</key>
+		<real>1</real>
+		<key>DurationDiamondDelay1</key>
+		<real>0.7</real>
+		<key>DurationDiamondDelay2</key>
+		<real>2.0</real>
+		<key>DurationDiamondAppearance1</key>
+		<real>0.8</real>
+		<key>DurationDiamondAppearance2</key>
+		<real>1.2</real>
+		
+		<key>NumberBombOnScreen</key>
+		<real>0</real>
+		<key>DurationBombDelay1</key>
+		<real>2.0</real>
+		<key>DurationBombDelay2</key>
+		<real>10.0</real>
+		<key>DurationBombAppearance1</key>
+		<real>1.0</real>
+		<key>DurationBombAppearance2</key>
+		<real>1.5</real>		
+	</dict>
+	
+	<!-- Level 8 -->
+	<dict>
+		<key>NumberMouseTarget</key>
+		<real>26</real>
+		<key>NumberComboTarget</key>
+		<real>5</real>
+		<key>NumberDiamondTarget</key>
+		<real>6</real>
+	
+		<key>NumberMouseAppearance</key>
+		<real>39</real>
+		<key>NumberMouseOnScreen</key>
+		<real>2</real>
+		<key>DurationMouseDelay1</key>
+		<real>0.7</real>		
+		<key>DurationMouseDelay2</key>
+		<real>2.0</real>
+		<key>DurationMouseAppearance1</key>
+		<real>0.8</real>
+		<key>DurationMouseAppearance2</key>
+		<real>1.2</real>
+		
+		<key>NumberOldManAppearance</key>
+		<real>12</real>
+		<key>NumberOldManOnScreen</key>
+		<real>1</real>
+		<key>DurationOldManDelay1</key>
+		<real>1.0</real>
+		<key>DurationOldManDelay2</key>
+		<real>2.0</real>
+		<key>DurationOldManAppearance1</key>
+		<real>1.0</real>
+		<key>DurationOldManAppearance2</key>
+		<real>2.0</real>
+		
+		<key>NumberDiamondOnScreen</key>
+		<real>1</real>
+		<key>DurationDiamondDelay1</key>
+		<real>0.7</real>
+		<key>DurationDiamondDelay2</key>
+		<real>2.0</real>
+		<key>DurationDiamondAppearance1</key>
+		<real>0.8</real>
+		<key>DurationDiamondAppearance2</key>
+		<real>1.2</real>
+		
+		<key>NumberBombOnScreen</key>
+		<real>1</real>
+		<key>DurationBombDelay1</key>
+		<real>2.0</real>
+		<key>DurationBombDelay2</key>
+		<real>10.0</real>
+		<key>DurationBombAppearance1</key>
+		<real>1.0</real>
+		<key>DurationBombAppearance2</key>
+		<real>1.5</real>		
+	</dict>
+	
+	<!-- Level 9 -->
+	<dict>
+		<key>NumberMouseTarget</key>
+		<real>27</real>
+		<key>NumberComboTarget</key>
+		<real>5</real>
+		<key>NumberDiamondTarget</key>
+		<real>7</real>
+	
+		<key>NumberMouseAppearance</key>
+		<real>40</real>
+		<key>NumberMouseOnScreen</key>
+		<real>2</real>
+		<key>DurationMouseDelay1</key>
+		<real>0.7</real>		
+		<key>DurationMouseDelay2</key>
+		<real>1.5</real>
+		<key>DurationMouseAppearance1</key>
+		<real>0.5</real>
+		<key>DurationMouseAppearance2</key>
+		<real>1.0</real>
+		
+		<key>NumberOldManAppearance</key>
+		<real>16</real>
+		<key>NumberOldManOnScreen</key>
+		<real>1</real>
+		<key>DurationOldManDelay1</key>
+		<real>1.0</real>
+		<key>DurationOldManDelay2</key>
+		<real>2.0</real>
+		<key>DurationOldManAppearance1</key>
+		<real>1.0</real>
+		<key>DurationOldManAppearance2</key>
+		<real>2.0</real>
+		
+		<key>NumberDiamondOnScreen</key>
+		<real>1</real>
+		<key>DurationDiamondDelay1</key>
+		<real>0.7</real>
+		<key>DurationDiamondDelay2</key>
+		<real>1.5</real>
+		<key>DurationDiamondAppearance1</key>
+		<real>0.5</real>
+		<key>DurationDiamondAppearance2</key>
+		<real>1.0</real>
+		
+		<key>NumberBombOnScreen</key>
+		<real>1</real>
+		<key>DurationBombDelay1</key>
+		<real>2.0</real>
+		<key>DurationBombDelay2</key>
+		<real>10.0</real>
+		<key>DurationBombAppearance1</key>
+		<real>1.0</real>
+		<key>DurationBombAppearance2</key>
+		<real>2.0</real>		
+	</dict>
+	
+	<!-- Level 10 -->
+	<dict>
+		<key>NumberMouseTarget</key>
+		<real>28</real>
+		<key>NumberComboTarget</key>
+		<real>5</real>
+		<key>NumberDiamondTarget</key>
+		<real>8</real>
+	
+		<key>NumberMouseAppearance</key>
+		<real>41</real>
+		<key>NumberMouseOnScreen</key>
+		<real>3</real>
+		<key>DurationMouseDelay1</key>
+		<real>0.7</real>		
+		<key>DurationMouseDelay2</key>
+		<real>1.5</real>
+		<key>DurationMouseAppearance1</key>
+		<real>0.5</real>
+		<key>DurationMouseAppearance2</key>
+		<real>1.0</real>
+		
+		<key>NumberOldManAppearance</key>
+		<real>15</real>
+		<key>NumberOldManOnScreen</key>
+		<real>1</real>
+		<key>DurationOldManDelay1</key>
+		<real>1.0</real>
+		<key>DurationOldManDelay2</key>
+		<real>2.0</real>
+		<key>DurationOldManAppearance1</key>
+		<real>1.0</real>
+		<key>DurationOldManAppearance2</key>
+		<real>2.0</real>
+		
+		<key>NumberDiamondOnScreen</key>
+		<real>1</real>
+		<key>DurationDiamondDelay1</key>
+		<real>0.7</real>
+		<key>DurationDiamondDelay2</key>
+		<real>1.5</real>
+		<key>DurationDiamondAppearance1</key>
+		<real>0.5</real>
+		<key>DurationDiamondAppearance2</key>
+		<real>1.0</real>
+		
+		<key>NumberBombOnScreen</key>
+		<real>1</real>
+		<key>DurationBombDelay1</key>
+		<real>2.0</real>
+		<key>DurationBombDelay2</key>
+		<real>7.0</real>
+		<key>DurationBombAppearance1</key>
+		<real>1.0</real>
+		<key>DurationBombAppearance2</key>
+		<real>1.5</real>		
+	</dict>
+	
+	<!-- Level 11 -->
+	<dict>
+		<key>NumberMouseTarget</key>
+		<real>29</real>
+		<key>NumberComboTarget</key>
+		<real>5</real>
+		<key>NumberDiamondTarget</key>
+		<real>9</real>
+	
+		<key>NumberMouseAppearance</key>
+		<real>42</real>
+		<key>NumberMouseOnScreen</key>
+		<real>2</real>
+		<key>DurationMouseDelay1</key>
+		<real>0.7</real>		
+		<key>DurationMouseDelay2</key>
+		<real>1.5</real>
+		<key>DurationMouseAppearance1</key>
+		<real>0.5</real>
+		<key>DurationMouseAppearance2</key>
+		<real>1.0</real>
+		
+		<key>NumberOldManAppearance</key>
+		<real>16</real>
+		<key>NumberOldManOnScreen</key>
+		<real>1</real>
+		<key>DurationOldManDelay1</key>
+		<real>1.0</real>
+		<key>DurationOldManDelay2</key>
+		<real>2.0</real>
+		<key>DurationOldManAppearance1</key>
+		<real>1.0</real>
+		<key>DurationOldManAppearance2</key>
+		<real>2.0</real>
+		
+		<key>NumberDiamondOnScreen</key>
+		<real>1</real>
+		<key>DurationDiamondDelay1</key>
+		<real>0.7</real>
+		<key>DurationDiamondDelay2</key>
+		<real>1.5</real>
+		<key>DurationDiamondAppearance1</key>
+		<real>0.5</real>
+		<key>DurationDiamondAppearance2</key>
+		<real>1.0</real>
+		
+		<key>NumberBombOnScreen</key>
+		<real>1</real>
+		<key>DurationBombDelay1</key>
+		<real>2.0</real>
+		<key>DurationBombDelay2</key>
+		<real>7.0</real>
+		<key>DurationBombAppearance1</key>
+		<real>1.0</real>
+		<key>DurationBombAppearance2</key>
+		<real>1.5</real>		
+	</dict>
+	
+	<!-- Level 12 -->
+	<dict>
+		<key>NumberMouseTarget</key>
+		<real>30</real>
+		<key>NumberComboTarget</key>
+		<real>5</real>
+		<key>NumberDiamondTarget</key>
+		<real>10</real>
+	
+		<key>NumberMouseAppearance</key>
+		<real>43</real>
+		<key>NumberMouseOnScreen</key>
+		<real>2</real>
+		<key>DurationMouseDelay1</key>
+		<real>0.7</real>		
+		<key>DurationMouseDelay2</key>
+		<real>1.5</real>
+		<key>DurationMouseAppearance1</key>
+		<real>0.5</real>
+		<key>DurationMouseAppearance2</key>
+		<real>1.0</real>
+		
+		<key>NumberOldManAppearance</key>
+		<real>20</real>
+		<key>NumberOldManOnScreen</key>
+		<real>1</real>
+		<key>DurationOldManDelay1</key>
+		<real>1.0</real>
+		<key>DurationOldManDelay2</key>
+		<real>2.0</real>
+		<key>DurationOldManAppearance1</key>
+		<real>1.0</real>
+		<key>DurationOldManAppearance2</key>
+		<real>2.0</real>
+		
+		<key>NumberDiamondOnScreen</key>
+		<real>1</real>
+		<key>DurationDiamondDelay1</key>
+		<real>0.7</real>
+		<key>DurationDiamondDelay2</key>
+		<real>1.5</real>
+		<key>DurationDiamondAppearance1</key>
+		<real>0.5</real>
+		<key>DurationDiamondAppearance2</key>
+		<real>1.0</real>
+		
+		<key>NumberBombOnScreen</key>
+		<real>1</real>
+		<key>DurationBombDelay1</key>
+		<real>2.0</real>
+		<key>DurationBombDelay2</key>
+		<real>7.0</real>
+		<key>DurationBombAppearance1</key>
+		<real>1.0</real>
+		<key>DurationBombAppearance2</key>
+		<real>2.0</real>		
+	</dict>
+	
+	<!-- Level 13 -->
+	<dict>
+		<key>NumberMouseTarget</key>
+		<real>33</real>
+		<key>NumberComboTarget</key>
+		<real>5</real>
+		<key>NumberDiamondTarget</key>
+		<real>10</real>
+	
+		<key>NumberMouseAppearance</key>
+		<real>44</real>
+		<key>NumberMouseOnScreen</key>
+		<real>3</real>
+		<key>DurationMouseDelay1</key>
+		<real>0.3</real>		
+		<key>DurationMouseDelay2</key>
+		<real>1.2</real>
+		<key>DurationMouseAppearance1</key>
+		<real>0.5</real>
+		<key>DurationMouseAppearance2</key>
+		<real>1.0</real>
+		
+		<key>NumberOldManAppearance</key>
+		<real>21</real>
+		<key>NumberOldManOnScreen</key>
+		<real>1</real>
+		<key>DurationOldManDelay1</key>
+		<real>1.0</real>
+		<key>DurationOldManDelay2</key>
+		<real>2.0</real>
+		<key>DurationOldManAppearance1</key>
+		<real>1.0</real>
+		<key>DurationOldManAppearance2</key>
+		<real>2.0</real>
+		
+		<key>NumberDiamondOnScreen</key>
+		<real>1</real>
+		<key>DurationDiamondDelay1</key>
+		<real>0.3</real>
+		<key>DurationDiamondDelay2</key>
+		<real>1.2</real>
+		<key>DurationDiamondAppearance1</key>
+		<real>0.5</real>
+		<key>DurationDiamondAppearance2</key>
+		<real>1.0</real>
+		
+		<key>NumberBombOnScreen</key>
+		<real>1</real>
+		<key>DurationBombDelay1</key>
+		<real>2.0</real>
+		<key>DurationBombDelay2</key>
+		<real>7.0</real>
+		<key>DurationBombAppearance1</key>
+		<real>1.0</real>
+		<key>DurationBombAppearance2</key>
+		<real>1.5</real>		
+	</dict>
+	
+	<!-- Level 14 -->
+	<dict>
+		<key>NumberMouseTarget</key>
+		<real>35</real>
+		<key>NumberComboTarget</key>
+		<real>5</real>
+		<key>NumberDiamondTarget</key>
+		<real>10</real>
+	
+		<key>NumberMouseAppearance</key>
+		<real>45</real>
+		<key>NumberMouseOnScreen</key>
+		<real>2</real>
+		<key>DurationMouseDelay1</key>
+		<real>0.3</real>		
+		<key>DurationMouseDelay2</key>
+		<real>1.2</real>
+		<key>DurationMouseAppearance1</key>
+		<real>0.5</real>
+		<key>DurationMouseAppearance2</key>
+		<real>1.0</real>
+		
+		<key>NumberOldManAppearance</key>
+		<real>22</real>
+		<key>NumberOldManOnScreen</key>
+		<real>1</real>
+		<key>DurationOldManDelay1</key>
+		<real>1.0</real>
+		<key>DurationOldManDelay2</key>
+		<real>2.0</real>
+		<key>DurationOldManAppearance1</key>
+		<real>1.0</real>
+		<key>DurationOldManAppearance2</key>
+		<real>2.0</real>
+		
+		<key>NumberDiamondOnScreen</key>
+		<real>1</real>
+		<key>DurationDiamondDelay1</key>
+		<real>0.3</real>
+		<key>DurationDiamondDelay2</key>
+		<real>1.2</real>
+		<key>DurationDiamondAppearance1</key>
+		<real>0.5</real>
+		<key>DurationDiamondAppearance2</key>
+		<real>1.0</real>
+		
+		<key>NumberBombOnScreen</key>
+		<real>1</real>
+		<key>DurationBombDelay1</key>
+		<real>2.0</real>
+		<key>DurationBombDelay2</key>
+		<real>7.0</real>
+		<key>DurationBombAppearance1</key>
+		<real>1.0</real>
+		<key>DurationBombAppearance2</key>
+		<real>1.5</real>		
+	</dict>
+	
+	<!-- Level 15 -->
+	<dict>
+		<key>NumberMouseTarget</key>
+		<real>40</real>
+		<key>NumberComboTarget</key>
+		<real>5</real>
+		<key>NumberDiamondTarget</key>
+		<real>10</real>
+	
+		<key>NumberMouseAppearance</key>
+		<real>46</real>
+		<key>NumberMouseOnScreen</key>
+		<real>3</real>
+		<key>DurationMouseDelay1</key>
+		<real>0.3</real>		
+		<key>DurationMouseDelay2</key>
+		<real>1.2</real>
+		<key>DurationMouseAppearance1</key>
+		<real>0.5</real>
+		<key>DurationMouseAppearance2</key>
+		<real>1.0</real>
+		
+		<key>NumberOldManAppearance</key>
+		<real>25</real>
+		<key>NumberOldManOnScreen</key>
+		<real>1</real>
+		<key>DurationOldManDelay1</key>
+		<real>1.0</real>
+		<key>DurationOldManDelay2</key>
+		<real>2.0</real>
+		<key>DurationOldManAppearance1</key>
+		<real>1.0</real>
+		<key>DurationOldManAppearance2</key>
+		<real>2.0</real>
+		
+		<key>NumberDiamondOnScreen</key>
+		<real>1</real>
+		<key>DurationDiamondDelay1</key>
+		<real>0.3</real>
+		<key>DurationDiamondDelay2</key>
+		<real>1.2</real>
+		<key>DurationDiamondAppearance1</key>
+		<real>0.5</real>
+		<key>DurationDiamondAppearance2</key>
+		<real>1.0</real>
+		
+		<key>NumberBombOnScreen</key>
+		<real>1</real>
+		<key>DurationBombDelay1</key>
+		<real>2.0</real>
+		<key>DurationBombDelay2</key>
+		<real>7.0</real>
+		<key>DurationBombAppearance1</key>
+		<real>1.0</real>
+		<key>DurationBombAppearance2</key>
+		<real>2.0</real>		
+	</dict>
+</array>
+</plist>
